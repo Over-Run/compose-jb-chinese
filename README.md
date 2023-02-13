@@ -1,28 +1,28 @@
-[![official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-[![Latest release](https://img.shields.io/github/v/release/JetBrains/compose-jb?color=brightgreen&label=latest%20release)](https://github.com/JetBrains/compose-jb/releases/latest)
-[![Latest build](https://img.shields.io/github/v/release/JetBrains/compose-jb?color=orange&include_prereleases&label=latest%20build)](https://github.com/JetBrains/compose-jb/releases)
+[![官方项目](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![最新稳定版本](https://img.shields.io/github/v/release/JetBrains/compose-jb?color=brightgreen&label=latest%20release)](https://github.com/JetBrains/compose-jb/releases/latest)
+[![最新构建版本](https://img.shields.io/github/v/release/JetBrains/compose-jb?color=orange&include_prereleases&label=latest%20build)](https://github.com/JetBrains/compose-jb/releases)
 
-# Compose Multiplatform, by JetBrains
+# 一个由JetBrains创作的Compose Multiplatform, by JetBrains
 ![](artwork/readme/apps.png)
-Compose Kotlin UI framework port for desktop platforms (macOS, Linux, Windows) and Web, components outside of the core [Compose repository](https://android.googlesource.com/platform/frameworks/support).
+编写Kotlin开放式UI框架，用于桌面平台(macOS, Linux, Windows)和Web的compose核心 [Compose 存储库](https://android.googlesource.com/platform/frameworks/support).
 
-Preview functionality (check your application UI without building/running it) for desktop platforms is available via [IDEA plugin](https://plugins.jetbrains.com/plugin/16541-compose-multiplatform-ide-support).
+预览功能(检查您的应用程序UI而不构建/运行它)对于桌面平台可以通过它 [IDEA 插件](https://plugins.jetbrains.com/plugin/16541-compose-multiplatform-ide-support).
 
-## Tutorials
-### Compose for Desktop
-* [Getting started](tutorials/Getting_Started)
-* [Image and icon manipulations](tutorials/Image_And_Icons_Manipulations)
-* [Mouse events and hover](tutorials/Mouse_Events)
-* [Scrolling and scrollbars](tutorials/Desktop_Components#scrollbars)
-* [Tooltips](tutorials/Desktop_Components#tooltips)
-* [Context Menu](tutorials/Context_Menu/README.md)
-* [Top level windows management](tutorials/Window_API_new)
-* [Menu, tray, notifications](tutorials/Tray_Notifications_MenuBar_new)
-* [Keyboard support](tutorials/Keyboard)
-* [Tab focus navigation](tutorials/Tab_Navigation)
-* [Swing interoperability](tutorials/Swing_Integration)
-* [Navigation](tutorials/Navigation)
-* [Accessibility](https://github.com/JetBrains/compose-jb/tree/master/tutorials/Accessibility)
+## 教程列表
+### Compose 桌面版
+* [入门](tutorials/Getting_Started)
+* [图像和图标处理](tutorials/Image_And_Icons_Manipulations)
+* [鼠标和鼠标悬停事件](tutorials/Mouse_Events)
+* [滚动和滚动条](tutorials/Desktop_Components#scrollbars)
+* [工具提示](tutorials/Desktop_Components#tooltips)
+* [上下文菜单](tutorials/Context_Menu/README.md)
+* [顶层窗口管理器](tutorials/Window_API_new)
+* [菜单，托盘，和通知](tutorials/Tray_Notifications_MenuBar_new)
+* [键盘支持](tutorials/Keyboard)
+* [选项卡焦点导航](tutorials/Tab_Navigation)
+* [Swing互相操作性](tutorials/Swing_Integration)
+* [导航栏](tutorials/Navigation)
+* [辅助](https://github.com/JetBrains/compose-jb/tree/master/tutorials/Accessibility)
 * [Building a native distribution](tutorials/Native_distributions_and_local_execution)
 
 Also, see [Foundation](https://developer.android.com/jetpack/compose/documentation#core) and [Design](https://developer.android.com/jetpack/compose/documentation#design) docs from Google. They were originally written for Android, but most of information applies to Compose for Desktop as well.
