@@ -2,7 +2,7 @@
 [![最新稳定版本](https://img.shields.io/github/v/release/JetBrains/compose-jb?color=brightgreen&label=latest%20release)](https://github.com/JetBrains/compose-jb/releases/latest)
 [![最新构建版本](https://img.shields.io/github/v/release/JetBrains/compose-jb?color=orange&include_prereleases&label=latest%20build)](https://github.com/JetBrains/compose-jb/releases)
 
-# 一个由JetBrains创作的Compose Multiplatform, by JetBrains
+# 一个由JetBrains创作的Compose Multiplatform, 由JetBrains提供,Overrun Organization翻译
 ![](artwork/readme/apps.png)
 编写Kotlin开放式UI框架，用于桌面平台(macOS, Linux, Windows)和Web的compose核心 [Compose 存储库](https://android.googlesource.com/platform/frameworks/support).
 
